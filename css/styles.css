@@ -1,0 +1,12 @@
+body{
+  background-color: #FEC8D8;
+}
+h1{
+  color: red;
+}
+hr{
+  background-color: #FFDFD3;
+  border-style: none;
+  height: 2px;
+  width: 100%;
+}
